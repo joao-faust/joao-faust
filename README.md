@@ -4,10 +4,10 @@
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
     </div>
     <div>
-      <a href="LINKEDIN_LINK" target="_blank">
+      <a href="LINKEDIN_LINK">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&LogoColor=white&style=for-the-badge" alt="Linkedin Badge">
       </a>
-      <a href="TWITTER_LINK" target="_blank">
+      <a href="TWITTER_LINK">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
        </a>
     </div>
