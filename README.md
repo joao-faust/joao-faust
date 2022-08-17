@@ -31,7 +31,7 @@
 I am computer technicam by ifsc campus Garopaba and Full Stack Developer from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: In the moment i am attending the graduation to systems for internet at ifsc too.
 
-- :zap: In my free time, I enjoy to learn new technologies and build new back-end and front-end projec.
+- :zap: In my free time, I enjoy to learn new technologies and build new back-end and front-end projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](batata)](your-linkedin-url)
 </div>
