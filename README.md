@@ -25,8 +25,8 @@
   
 ---
 ### :woman_technologist: About Me :
-I am computer technicam by ifsc campus Garopaba and full stack developer from brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: In the moment i am attending the graduation to systems for internet at ifsc too.
+I am a computer technician from the Federal Institute of Santa Catarina and a Full Stack Developer from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: In the moment i am attending the graduation to systems for internet at Federal Institute of Santa Catarina too.
 
 - :zap: In my free time, i enjoy to learn new technologies and build new back-end and front-end projects.
 
