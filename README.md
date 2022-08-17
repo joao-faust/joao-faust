@@ -26,9 +26,9 @@
 ---
 ### :woman_technologist: About Me :
 I am a computer technician from the Federal Institute of Santa Catarina(IFSC) and a Full Stack Developer from Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: In the moment i am attending the graduation to systems for internet at IFSC too.
+- :telescope: Currently in graduating in system for internet at the IFSC.
 
-- :zap: In my free time, i enjoy to learn new technologies and build new back-end and front-end projects.
+- :zap: In my free time I enjoy learning new technologies and building new back-end and front-end projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](teste)
 
