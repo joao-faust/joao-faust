@@ -30,8 +30,6 @@ I am a computer technician from the Federal Institute of Santa Catarina(IFSC) an
 
 - :zap: In my free time I enjoy learning new technologies and building new back-end and front-end projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/?style=flat&logo=Linkedin&logoColor=white)](teste)
-
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
